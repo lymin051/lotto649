@@ -6,7 +6,11 @@ public class WriteHere {
 		// FANG :
 		// ERIC :
 		// AWEN :
+<<<<<<< HEAD
 		// Pull requests!
+=======
+		// Pull requests! :-D
+>>>>>>> upstream/master
 
 	}
 
